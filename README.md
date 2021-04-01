@@ -8,7 +8,7 @@ I mostly work **[here](https://github.com/DevSnowflake)**. I also contribute to 
 - **[@ItzMeRM](https://github.com/ItzMeRM)**
 - **[@Androz2091](https://github.com/Androz2091)**
 - **[@Zyrouge](https://github.com/Zyrouge)**
-- **[@Saif](https://github.com/thanos783)**
+<!-- - **[@Saif](https://github.com/thanos783)** (404 not found)-->
 
 # Links
 - **[Discord](https://discord.gg/2SUybzb)**
