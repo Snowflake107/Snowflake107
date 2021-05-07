@@ -12,22 +12,22 @@ Some of them are:
 
     and more...
 
-# Languages and Tools
-## Languages
+# Languages and Tools ⚒
+## Languages 👓
 - **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**
 - **[TypeScript](https://en.wikipedia.org/wiki/TypeScript)**
 - **[C](https://en.wikipedia.org/wiki/C_(programming_language))**
 
-## Tools
-### Web
+## Tools 🔨
+### Web 🌎
 - **[ReactJS](https://reactjs.org)** <img src="https://user-images.githubusercontent.com/46562212/117412601-ae28c600-af34-11eb-9e0c-4b5e42bef9a2.png" height="15" width="23" />
 - **[NextJS](https://nextjs.org)** <img src="https://user-images.githubusercontent.com/46562212/117412855-fb0c9c80-af34-11eb-8e2a-682dbffb34c2.png" height="15" width="15" />
 
-### Desktop
+### Desktop 🖥
 - **[Electron](https://electronjs.org)** <img src="https://user-images.githubusercontent.com/46562212/117412970-21cad300-af35-11eb-9c57-6aa0f38f475c.png" height="20" width="20" />
 
-### Android
-- **[React Native]()** <img src="https://user-images.githubusercontent.com/46562212/117412601-ae28c600-af34-11eb-9e0c-4b5e42bef9a2.png" height="15" width="23" />
+### Android 📱
+- **[React Native](https://reactnative.dev)** <img src="https://user-images.githubusercontent.com/46562212/117412601-ae28c600-af34-11eb-9e0c-4b5e42bef9a2.png" height="15" width="23" />
 
 # Contact 📞
 ### You can find me in my Discord server:
