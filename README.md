@@ -1,5 +1,5 @@
 # Introduction 👨‍🦰
-Hello, My name is **[Snowflake](https://en.wikipedia.org/wiki/Snowflake)** (idk.. I randomly came up with this name). I am from **[Nepal](https://en.wikipedia.org/wiki/Nepal)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/840px-Flag_of_Nepal.svg.png" height="15" width="15" title=":flag_np:" />.
+Hello, My name is **[Snowflake](https://en.wikipedia.org/wiki/Snowflake)** (He/Him). I am from **[Nepal](https://en.wikipedia.org/wiki/Nepal)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/840px-Flag_of_Nepal.svg.png" height="15" width="15" title=":flag_np:" />.
 I kind of know how to play **Piano** 🎹.
 
 # Projects 👨‍💻
